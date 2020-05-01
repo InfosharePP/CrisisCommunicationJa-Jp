@@ -1,0 +1,2 @@
+# PowerApps
+PowerAppsを利用したソリューション公開のレポジトリ
