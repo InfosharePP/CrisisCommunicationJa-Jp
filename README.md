@@ -38,11 +38,15 @@
  - 業務開始、途中退出、業務終了レポートの作成と送信
  - 日報レポートの作成と送信（フリーフォーマット）
 ![モデル駆動型アプリ](https://infosharefl.blob.core.windows.net/%24web/webimages/ModelDrivenSample.jpg?sv=2019-10-10&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-05-01T12:58:34Z&sig=RibYdcYyy96xvfmqUGk%2Bu6tv52pgoXLbSxjZsRuRuZU%3D&_=1588309419808)
+
 ![キャンバスアプリ](https://infosharefl.blob.core.windows.net/%24web/webimages/CanvasAppSample.jpg?sv=2019-10-10&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-05-01T13:04:47Z&sig=wY12ZeB3Fyp9eLgjy5xY90%2BqFSw8lznBXNt2Mfx5rmw%3D&_=1588309499090)
 
 
 ## 展開方法
 パッケージに含まれている管理者向け展開ガイドを参照してください
+
+## マネージドソリューションとアンマネージドソリューション
+2種類のソリューションを用意しています。インストールにはマネージドソリューションを使用することをおすすめします。アンマネージドは開発環境への展開や、追加の開発・カスタマイズを実施する環境で展開してください。詳しくは管理者向けのドキュメントを参照してください。
 
 ## FAQ
 
