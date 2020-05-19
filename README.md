@@ -1,5 +1,5 @@
 # 社内緊急コミュニケーションアプリ（CDS対応版）を使用したPower Appsソリューションテンプレート
-(Crises Communication for CDS environment)
+(Crisis Communication for CDS environment)
 
 ## はじめに
 
