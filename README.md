@@ -1,4 +1,4 @@
-# 日本マイクロソフト 社内緊急コミュニケーション CDSを使用したPower Appsソリューションテンプレート
+# 社内緊急コミュニケーションアプリ（CDS対応版）を使用したPower Appsソリューションテンプレート
 (Crises Communication for CDS environment)
 
 ## はじめに
