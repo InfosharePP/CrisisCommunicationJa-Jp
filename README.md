@@ -37,7 +37,7 @@
  - 共有内容の自動メール送信
  - 業務開始、途中退出、業務終了レポートの作成と送信
  - 日報レポートの作成と送信（フリーフォーマット）
-![モデル駆動型アプリ](https://infosharefl.blob.core.windows.net/%24web/webimages/ModelDrivenSample.jpg?sv=2019-10-10&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-05-14T22:01:42Z&sig=HwZp1R5ecpIkw0SsG9izIhDQjL2E%2BWXcDMYy6nIJMEY%3D&_=1589464914333)
+![モデル駆動型アプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/model_app.png)
 
 ![キャンバスアプリ](https://infosharefl.blob.core.windows.net/%24web/webimages/CanvasAppSample.jpg?sv=2019-10-10&ss=bqtf&srt=sco&sp=rwdlacuptfx&se=2020-05-01T13:04:47Z&sig=wY12ZeB3Fyp9eLgjy5xY90%2BqFSw8lznBXNt2Mfx5rmw%3D&_=1588309499090)
 
