@@ -1,5 +1,9 @@
 # 社内緊急コミュニケーションアプリ（CDS対応版）を使用したPower Appsソリューションテンプレート
+
 (Crisis Communication for CDS environment)
+<p align="center">	
+<img alt="download" src="https://img.shields.io/github/downloads/InfosharePP/CrisisCommunicationJa-Jp/total?color=brightgreen.svg"/>	
+</p>
 
 ## はじめに
 
@@ -18,6 +22,12 @@
  4. （サンプル）Power BIテンプレート
  5. 管理者向け展開ガイド
  6. エンドユーザー向け利用者ガイド
+
+
+## ダウンロード
+以下のリンクより最新版バージョンをダウンロードいただけます。  
+    [最新のリリースページへ移動](https://github.com/tetetes/CrisisCommunicationJa-Jp/releases/tag/ver.1.0)
+
 
 ## 展開・利用に必要な条件
 本テンプレートを展開・利用するには有償のPower Appsライセンスが必要です。詳しくは下記をご参照いただくか、日本マイクロソフト担当者までお問い合わせください。
