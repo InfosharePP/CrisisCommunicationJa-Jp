@@ -23,12 +23,6 @@
  5. 管理者向け展開ガイド
  6. エンドユーザー向け利用者ガイド
 
-
-## ダウンロード
-以下のリンクより最新版バージョンをダウンロードいただけます。  
-    [最新のリリースページへ移動](https://github.com/tetetes/CrisisCommunicationJa-Jp/releases/tag/ver.1.0)
-
-
 ## 展開・利用に必要な条件
 本テンプレートを展開・利用するには有償のPower Appsライセンスが必要です。詳しくは下記をご参照いただくか、日本マイクロソフト担当者までお問い合わせください。
 [https://powerapps.microsoft.com/ja-jp/pricing/](https://powerapps.microsoft.com/ja-jp/pricing/)
@@ -51,6 +45,9 @@
 
 ![キャンバスアプリ](https://infoshare.co.jp/wp-content/uploads/2020/05/dailyreport-1.png)
 
+## ダウンロード
+以下のリンクより最新版バージョンをダウンロードいただけます。  
+    [最新のリリースページへ移動](https://github.com/InfosharePP/CrisisCommunicationJa-Jp/releases/tag/ver.1.0)
 
 ## 展開方法
 管理者向け展開ガイドを参照してください
